@@ -1,0 +1,20 @@
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\bin\Debug\ColaTimer.exe.config
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\bin\Debug\ColaTimer.exe
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\bin\Debug\ColaTimer.pdb
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\obj\Debug\ColaTimer.csprojAssemblyReference.cache
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\obj\Debug\ColaTimer.Form1.resources
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\obj\Debug\ColaTimer.Properties.Resources.resources
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\obj\Debug\ColaTimer.csproj.GenerateResource.cache
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\obj\Debug\ColaTimer.csproj.CoreCompileInputs.cache
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\obj\Debug\ColaTimer.exe
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\ColaTimer\obj\Debug\ColaTimer.pdb
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\bin\Debug\ColaTimer.exe.config
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\bin\Debug\ColaTimer.exe
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\bin\Debug\ColaTimer.pdb
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\obj\Debug\ColaTimer.csprojAssemblyReference.cache
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\obj\Debug\ColaTimer.Form1.resources
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\obj\Debug\ColaTimer.Properties.Resources.resources
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\obj\Debug\ColaTimer.csproj.GenerateResource.cache
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\obj\Debug\ColaTimer.csproj.CoreCompileInputs.cache
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\obj\Debug\ColaTimer.exe
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\ColaTimer\obj\Debug\ColaTimer.pdb
